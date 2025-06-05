@@ -1,8 +1,4 @@
-Based on the contents and purpose of your script, here’s a clean and informative README.md file for your GitHub repository:
-
-⸻
-
-🇳🇱 NED.nl CO₂ Emissions & Electricity Production Data Extractor
+**🇳🇱 NED.nl CO₂ Emissions & Electricity Production Data Extractor**
 
 This Python script retrieves electricity production data from the Nationaal Energie Dashboard (NED.nl) via its API. It downloads quarter-hourly production data for a full calendar year and calculates:
 	•	Total CO₂ emissions per 15-minute time block
